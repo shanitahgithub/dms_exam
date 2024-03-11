@@ -38,6 +38,6 @@ SET Last_Name = 'Mwangi'
 WHERE Reg_no = '4/2017';
 SELECT * FROM students
 --deleting all students records
-DELETE FORM students;
+DELETE FROM students;
 
 
