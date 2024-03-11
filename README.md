@@ -1,0 +1,5 @@
+![1](https://github.com/shanitahgithub/dms_exam/assets/142230234/656dcb33-9431-4617-bc0c-f8d22381dcec)
+![2](https://github.com/shanitahgithub/dms_exam/assets/142230234/55e199bf-96eb-42ed-a069-03660b78293e)
+![3](https://github.com/shanitahgithub/dms_exam/assets/142230234/8b047864-8d8e-46d7-bda0-e3d0ad9eea02)
+![5](https://github.com/shanitahgithub/dms_exam/assets/142230234/9d4423f0-58a7-4b33-9d22-3fb667b5221f)
+![6](https://github.com/shanitahgithub/dms_exam/assets/142230234/25257822-6391-4872-bce9-57a48843da76)
